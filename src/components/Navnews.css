@@ -1,0 +1,13 @@
+.inshortHeader{
+    display: flex;
+    box-shadow: 0 2px 8px gray;
+    height: 72px;
+    width: 100%;
+    align-items: center;
+    position:fixed;
+    top: 0;
+    background-color: white;
+}
+.navIcon{
+    flex: 0.48;
+}
